@@ -1,0 +1,2 @@
+# smita-github
+Smita project
